@@ -1,0 +1,17 @@
+.episode-list ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.episode-list li {
+  margin-bottom: 3%;
+}
+
+.episode-list p {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
